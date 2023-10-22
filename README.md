@@ -19,6 +19,7 @@ This web application is designed using Blazor WebAssembly and follows the very b
 - Clone the repo: `git clone https://github.com/ArshiaCraft/PizzaHub`.
 - Navigate to the project: `cd path/to/repository-folder`.
 - Install required packages: `dotnet restore`.
+- If you wanted to install the packages manually, take a look at [https://github.com/ArshiaCraft/PizzaHub/blob/main/Packages.md][Packages.md]
 
 ### Run:
 - Build with: `dotnet build`.
