@@ -16,7 +16,7 @@ This web application is designed using Blazor WebAssembly and follows the very b
 - A modern web browser (e.g., Chrome, Firefox, Edge).
 
 ### Setup:
-- Clone the repo: `git clone https://github.com/ArshiaCraft/PizzaHub`.
+- Clone the repo: `git clone github.com/ArshiaCraft/PizzaHub`.
 - Navigate to the project: `cd path/to/repository-folder`.
 - Install required packages: `dotnet restore`.
 
